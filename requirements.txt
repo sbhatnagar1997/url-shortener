@@ -23,7 +23,7 @@ packaging==20.3
 pep517==0.8.2
 pluggy==0.13.1
 progress==1.5
-py==1.8.1
+py==1.10.0
 pyparsing==2.4.6
 pytest==5.4.2
 pytoml==0.1.21
